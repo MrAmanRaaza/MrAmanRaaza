@@ -68,7 +68,7 @@ Hobbies:
 src="https://github-readme-stats.vercel.app/api?username=MrAmanRaaza&show_icons=true&theme=tokyonight"/>
 
 <img height="180em"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrAmanRaazaE&layout=compact&theme=tokyonight"/>
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrAmanRaaza&layout=compact&theme=tokyonight"/>
 
 </p>
 
