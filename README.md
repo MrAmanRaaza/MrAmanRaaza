@@ -87,6 +87,8 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrAmanRaaza&
 ## 🏆 GitHub Trophies
 
 <p align="center">
+## 🏆 GitHub Trophies
+
 ![Trophies](https://github-profile-trophy.vercel.app/?username=MrAmanRaaza&theme=tokyonight)
 
 
