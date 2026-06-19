@@ -86,16 +86,13 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrAmanRaaza&
 
 ## 🏆 GitHub Trophies
 
-<p align="center">
-## 🏆 GitHub Trophies
+
 
 <p align="center">
   
   <img src="[https://github-profile-trophy.vercel.app](https://user-images.githubusercontent.com/6661165/91657958-61b4fd00-eb00-11ea-9def-dc7ef5367e34.png)/?username=MrAmanRaaza&theme=tokyonight&no-frame=true&margin-w=15" />
 </p>
 
-
-</p>
 
 ---
 
