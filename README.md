@@ -78,7 +78,7 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrAmanRaaza&
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight"/>
+<img src="https://streak-stats.demolab.com?user=MrAmanRaaza&theme=tokyonight"/>
 
 </p>
 
@@ -128,6 +128,6 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrAmanRaaza&
 
 ### ⭐ "Code. Learn. Build. Repeat."
 
-![Visitor Count](https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+Views&color=0e75b6&style=flat)
+![Visitor Count](https://komarev.com/ghpvc/?username=MrAmanRaaza&label=Profile+Views&color=0e75b6&style=flat)
 
 </div>
