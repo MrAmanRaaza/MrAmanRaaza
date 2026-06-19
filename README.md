@@ -88,7 +88,7 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrAmanRaaza&
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&margin-w=10"/>
+<img src="https://github-profile-trophy.vercel.app/?username=MrAmanRaaza&theme=tokyonight&margin-w=10"/>
 
 </p>
 
